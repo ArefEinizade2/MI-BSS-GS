@@ -12,7 +12,7 @@ The codes were written in MATLAB 2018b, and the [GSPBOX](https://epfl-lts2.githu
 ![This is an image3](SeparationResults.png)
 
 <p align="center">
-  <img width="600" height="300" src="SeparationResults.png">
+  <img width="600" height="400" src="SeparationResults.png">
 </p>
 
 Thanks a lot for your attention.
