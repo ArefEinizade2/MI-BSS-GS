@@ -4,8 +4,6 @@
 clc; close all; clear;
 %% Generates the results of Figures 6 and 7 in our paper.
 %% Add necessary functions:
-% addpath('F:\Matlab 2018 Files\Convolutive Graph Signals\Codes\Smooth Graph Signals\GraphJADE_UtilFunctions'); 
-% addpath('F:\Matlab 2018 Files\Convolutive Graph Signals\Codes\Smooth Graph Signals');
 addpath('./NeededFunctions')
 %%
 t0 = tic;
