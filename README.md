@@ -7,9 +7,9 @@ The codes were written in MATLAB 2018b, and the [GSPBOX](https://epfl-lts2.githu
 
 - Run `Demo_MI_BSS_GS.m` to generate the desired results. 
 
-![This is an image2](A.png)
+![This is an image2](ALL_mixed_separated_img.png)
 
-![This is an image3](B.png)
+![This is an image3](SeparationResults.png)
 
 <p align="center">
   <img width="600" height="300" src="C.png">
